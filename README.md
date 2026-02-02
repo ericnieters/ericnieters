@@ -5,10 +5,8 @@
 **ML Systems, Cybersecurity & Data Analytics | Applied Mathematician | Pursuing Software Engineering Pathways**
 
 [![Email](https://img.shields.io/badge/Email-eric56379@gmail.com-0078D4?style=flat-square&logo=microsoftoutlook)](mailto:eric56379@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ericnieters-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ericnieters/)
-[![Steam](https://img.shields.io/badge/Steam-Profile-000000?style=flat-square&logo=steam)](https://steamcommunity.com/profiles/76561197960336731)
 [![Discord](https://img.shields.io/badge/Discord-eric56379-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/666592665990594560)
-
+![Views](https://komarev.com/ghpvc/?username=eric56379&color=blue)
 </div>
 
 ---
