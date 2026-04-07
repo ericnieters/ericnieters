@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=34&weight=600&color=3FA9F5&center=true&vCenter=true&width=650&lines=Hello%2C+and+welcome!;I'm+Eric+Nieters!" />
 
-**ML Systems, Cybersecurity & Data Analytics | Applied Mathematician | Software Engineer **
+**ML Systems, Cybersecurity & Data Analytics | Applied Mathematician | Software Engineer**
 
 [![Email](https://img.shields.io/badge/Email-eric56379@gmail.com-0078D4?style=flat-square&logo=microsoftoutlook)](mailto:eric56379@gmail.com)
 ![Views](https://komarev.com/ghpvc/?username=eric56379&color=blue)
