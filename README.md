@@ -36,7 +36,7 @@
   <img src="https://cdn.svglogos.dev/logos/php.svg" width="50" height="50" style="vertical-align:middle;" />
   <img src="https://cdn.svglogos.dev/logos/mysql-icon.svg" width="50" height="50" style="vertical-align:middle;" />
   <img src="https://cdn.svglogos.dev/logos/html-5.svg" width="50" height="50" style="vertical-align:middle;" />
-  <img src="https://cdn.svglogos.dev/logos/css-3.svg" width="50" height="50" style="vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" height="40" style="vertical-align:middle;" />
   <img src="https://cdn.svglogos.dev/logos/r-lang.svg" width="50" height="50" style="vertical-align:middle;" />
 </p>
 
