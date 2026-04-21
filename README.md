@@ -21,48 +21,6 @@
 
 ---
 
-
-
-## 🛠️ Technical Stack
-
-<h2 align="center">Languages</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="vertical-align:middle;" />
-  <img src="https://cdn.svglogos.dev/logos/c.svg" width="50" height="50" style="vertical-align:middle;" />
-  <img src="https://cdn.svglogos.dev/logos/c-plusplus.svg" width="50" height="50" style="vertical-align:middle;" />
-  <img src="https://cdn.svglogos.dev/logos/java.svg" width="50" height="50" style="vertical-align:middle;" />
-  <img src="https://cdn.svglogos.dev/logos/javascript.svg" width="50" height="50" style="vertical-align:middle;" />
-  <img src="https://cdn.svglogos.dev/logos/typescript-icon.svg" width="50" height="50" style="vertical-align:middle;" />
-  <img src="https://cdn.svglogos.dev/logos/php.svg" width="50" height="50" style="vertical-align:middle;" />
-  <img src="https://cdn.svglogos.dev/logos/mysql-icon.svg" width="50" height="50" style="vertical-align:middle;" />
-  <img src="https://cdn.svglogos.dev/logos/html-5.svg" width="50" height="50" style="vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" height="40" style="vertical-align:middle;" />
-  <img src="https://cdn.svglogos.dev/logos/r-lang.svg" width="50" height="50" style="vertical-align:middle;" />
-</p>
-
-<h2 align="center">Frameworks & Libraries</h2>
-<p align="center">
-  <img src="https://cdn.svglogos.dev/logos/react.svg" width="50" height="50" style="vertical-align:middle;" />
-  <img src="https://cdn.svglogos.dev/logos/tensorflow.svg" width="50" height="50" style="vertical-align:middle;" />
-  <img src="https://cdn.svglogos.dev/logos/bootstrap.svg" width="50" height="50" style="vertical-align:middle;" />
-  <img src="https://www.svgrepo.com/show/373541/cuda.svg" width="50" height="50" style="vertical-align:middle;" />
-  <img src="https://images.seeklogo.com/logo-png/35/2/jupyter-logo-png_seeklogo-354673.png" width="50" height="50" style="vertical-align:middle;" />
-  
-</p>
-
-<h2 align="center">Tools & Platforms</h2>
-<p align="center">
-  <img src="https://cdn.svglogos.dev/logos/microsoft-windows-icon.svg" width="50" height="50" style="vertical-align:middle;" />
-  <img src="https://cdn.svglogos.dev/logos/linux-tux.svg" width="50" height="50" style="vertical-align:middle;" />
-  <img src="https://cdn.svglogos.dev/logos/visual-studio-code.svg" width="50" height="50" style="vertical-align:middle;" />
-  <img src="https://cdn.svglogos.dev/logos/adobe-photoshop.svg" width="50" height="50" style="vertical-align:middle;" />
-  <img src="https://cdn.svglogos.dev/logos/adobe-lightroom.svg" width="50" height="50" style="vertical-align:middle;" />
-  <img src="https://cdn.svglogos.dev/logos/adobe-premiere.svg" width="50" height="50" style="vertical-align:middle;" />
-</p>
-
-
----
-
 ## 🔬 Research & Projects (Click to Expand)
 
 <details>
